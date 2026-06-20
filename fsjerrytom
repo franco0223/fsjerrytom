@@ -6,7 +6,16 @@ LISTA DE FS CONVERTIDORES
 #EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,http://satk.pro:2082/xmltv.php?username=patqw28&password=tricio07,https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml,http://tv.proyectox.vip:8080/xmltv.php?username=floresdavid1&password=RHaL5uYQaM"
 
 PARTIDOS HOY 
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DAZN
+http://200.59.191.177:8000/play/a00o/76158630.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DSPORTS
+http://200.59.191.177:8000/play/a00h/76928657.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DAZN
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DAZN
 
 MUNDIAL VIX
 
