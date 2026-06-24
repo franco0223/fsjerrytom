@@ -5,13 +5,68 @@ LISTA DE FS CONVERTIDORES
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,http://satk.pro:2082/xmltv.php?username=patqw28&password=tricio07,https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml,http://tv.proyectox.vip:8080/xmltv.php?username=floresdavid1&password=RHaL5uYQaM"
 
+
+
+
+
 PARTIDOS HOY 
 
+#EXTINF:-1 tvg-id="" tvg-name="Bosnia y Herzegovina v.s Catar | 13 hrs CST" tvg-logo="https://i.postimg.cc/GpZZ6ggB/Bosnia-y-Herzegovina-v-s-Catar.png" group-title="PARTIDOS HOY",Bosnia y Herzegovina v.s Catar | CST
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546579
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DAZN
+#EXTINF:-1 tvg-id="" tvg-name="Bosnia y Herzegovina v.s Catar | 13 hrs CST | OPC2" tvg-logo="https://i.postimg.cc/GpZZ6ggB/Bosnia-y-Herzegovina-v-s-Catar.png" group-title="PARTIDOS HOY",Bosnia y Herzegovina v.s Catar |  | OPC2
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546580
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",DAZN
+#EXTINF:-1 tvg-id="" tvg-name="Bosnia y Herzegovina v.s Catar | 13 hrs CST | OPC3" tvg-logo="https://i.postimg.cc/GpZZ6ggB/Bosnia-y-Herzegovina-v-s-Catar.png" group-title="PARTIDOS HOY",Bosnia y Herzegovina v.s Catar |  | OPC3
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546713
 
+#EXTINF:-1 tvg-id="" tvg-name="Bosnia y Herzegovina v.s Catar | 13 hrs CST | OPC4" tvg-logo="https://i.postimg.cc/GpZZ6ggB/Bosnia-y-Herzegovina-v-s-Catar.png" group-title="PARTIDOS HOY",Bosnia y Herzegovina v.s Catar | | OPC4
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546714
+
+#EXTINF:-1 tvg-id="" tvg-name="Marruecos v.s Haití | 16 hrs CST" tvg-logo="https://i.postimg.cc/28KTHbKd/Marruecos-v-s-Haiti.png" group-title="PARTIDOS HOY",Marruecos v.s Haití |  CST
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546715
+
+#EXTINF:-1 tvg-id="" tvg-name="Marruecos v.s Haití | 16 hrs CST | OPC2" tvg-logo="https://i.postimg.cc/28KTHbKd/Marruecos-v-s-Haiti.png" group-title="PARTIDOS HOY",Marruecos v.s Haití |  | OPC2
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/546716
+
+#EXTINF:-1 tvg-id="" tvg-name="Marruecos v.s Haití | 16 hrs CST | OPC3" tvg-logo="https://i.postimg.cc/28KTHbKd/Marruecos-v-s-Haiti.png" group-title="PARTIDOS HOY",Marruecos v.s Haití |  | OPC3
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547007
+
+#EXTINF:-1 tvg-id="" tvg-name="Marruecos v.s Haití | 16 hrs CST | OPC4" tvg-logo="https://i.postimg.cc/28KTHbKd/Marruecos-v-s-Haiti.png" group-title="PARTIDOS HOY",Marruecos v.s Haití | | OPC4
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547008
+
+#EXTINF:-1 tvg-id="" tvg-name="Escocia v.s Brasil | 16 hrs CST" tvg-logo="https://i.postimg.cc/rzXsm9pt/Escocia-v-s-Brasil.png" group-title="PARTIDOS HOY",Escocia v.s Brasil |  CST
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547009
+
+#EXTINF:-1 tvg-id="" tvg-name="Escocia v.s Brasil | 16 hrs CST | OPC2" tvg-logo="https://i.postimg.cc/rzXsm9pt/Escocia-v-s-Brasil.png" group-title="PARTIDOS HOY",Escocia v.s Brasil | | OPC2
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547010
+
+#EXTINF:-1 tvg-id="" tvg-name="Escocia v.s Brasil | 16 hrs CST | OPC3" tvg-logo="https://i.postimg.cc/rzXsm9pt/Escocia-v-s-Brasil.png" group-title="PARTIDOS HOY",Escocia v.s Brasil |  | OPC3
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547061
+
+#EXTINF:-1 tvg-id="" tvg-name="Escocia v.s Brasil | 16 hrs CST | OPC4" tvg-logo="https://i.postimg.cc/rzXsm9pt/Escocia-v-s-Brasil.png" group-title="PARTIDOS HOY",Escocia v.s Brasil | 1| OPC4
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547062
+
+#EXTINF:-1 tvg-id="" tvg-name="Suiza v.s Canadá | 13 hrs CST | OPC2" tvg-logo="https://i.postimg.cc/d1fKQt0q/Suiza-v-s-Canada.png" group-title="PARTIDOS HOY",Suiza v.s Canadá | 1| OPC2
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547696
+
+#EXTINF:-1 tvg-id="" tvg-name="Suiza v.s Canadá | 13 hrs CST | OPC3" tvg-logo="https://i.postimg.cc/d1fKQt0q/Suiza-v-s-Canada.png" group-title="PARTIDOS HOY",Suiza v.s Canadá || OPC3
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547697
+
+#EXTINF:-1 tvg-id="" tvg-name="Suiza v.s Canadá | 13 hrs CST | OPC4" tvg-logo="https://i.postimg.cc/d1fKQt0q/Suiza-v-s-Canada.png" group-title="PARTIDOS HOY",Suiza v.s Canadá |  | OPC4
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547698
+
+#EXTINF:-1 tvg-id="" tvg-name="Chequia v.s México | 19 hrs CST" tvg-logo="https://i.postimg.cc/fWxJ26qC/Chequia-v-s-Mexico.png" group-title="PARTIDOS HOY",Chequia v.s México | 
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547932
+
+#EXTINF:-1 tvg-id="" tvg-name="Chequia v.s México | 19 hrs CST | OPC2" tvg-logo="https://i.postimg.cc/fWxJ26qC/Chequia-v-s-Mexico.png" group-title="PARTIDOS HOY",Chequia v.s México | | OPC2
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547933
+
+#EXTINF:-1 tvg-id="" tvg-name="Chequia v.s México | 19 hrs CST | OPC3" tvg-logo="https://i.postimg.cc/fWxJ26qC/Chequia-v-s-Mexico.png" group-title="PARTIDOS HOY",Chequia v.s México || OPC3
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547934
+
+#EXTINF:-1 tvg-id="" tvg-name="Chequia v.s México | 19 hrs CST | OPC4" tvg-logo="https://i.postimg.cc/fWxJ26qC/Chequia-v-s-Mexico.png" group-title="PARTIDOS HOY",Chequia v.s México | OPC4
+http://cineplay.vip:2086/Mario075/h3UcgewJKt6f/547935
 
 
 MUNDIAL 2026  DAZN
@@ -290,6 +345,110 @@ LIBERTADORES
 http://45.181.122.46:8090/play/a015
 
 
+DALIVE
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="DALIVE TV",ARG : Canal 26 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcmVNUVVjVytMb2dTdUF3MWd3OVpuaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="DALIVE TV",ARG : Canal 26 FHD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbk1oOGVJVmk4SjhpZEZYbmdjU0NvRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="DALIVE TV",ARG| AMERICA TV HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzakJpaU9sRU14M3Y3ejJVY2F5QmtjYz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="DALIVE TV",ARG| AMERICA FHD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzZ25CNkNlV1BoMnVqMks3V0s0VzdYST0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="DALIVE TV",ARG| EL NUEVE HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzZ1ZRbzBIOGExcHdYOEdDTVFWRlpsYz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="DALIVE TV",ARG| EL NUEVE FHD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdXpEd09iUlU5MjlaeUw0Tzl6a1ZJcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/640px-Telefe_%28nuevo_logo%29.png" group-title="DALIVE TV",ARG| EL TELEFE HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaUFqclhDUVZsVnNZdEFlRWNLaEJZaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="DALIVE TV",ARG| TELEFE SD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbXkzbVVJMmQrcmowQmpYRUZkL29OWT0
+#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE" tvg-logo="http://flx.lat:8080/images/fa016b4219f079b9bba349fd30ed9351.jpg" group-title="DALIVE TV",AR: EL TRECE
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcmpLWTFPdEVhclNZZVRha3Vza2tZVT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="DALIVE TV",ARG| TRECE  FHD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcXdIbll2YnR2Z2dscW5HK3NaYUdJMD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUz1rkJ6uwa6IUeYmvoJvXWXn5VhjVNeAsA&s" group-title="DALIVE TV",ARG| 24/7 NOTICIAS HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdTVHYWVoVEN0bHprRmUvZ29yMHkvRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" group-title="DALIVE TV",ARG| LA NACION HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaWIxSmcvT0RJemZDWWNWQ2lWUit4TT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" group-title="DALIVE TV",ARG| VOLVER HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdEJxU0Rwdnh2VTVFUnB5WFFBclljdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="DALIVE TV",ARG| CANAL 10 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdlBnYjA0a2Zpd2FWcUNIYWFnTDIzOD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="DALIVE TV",ARG| CINEAR  HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzZ1owV3g3VGlMTUpTV0hVUHV2K29lND0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="DALIVE TV",ARG| TN NOTICIAS HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaHBRckd5WTV5RVZXN1dZK0hTYWdvcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://i.pinimg.com/736x/55/b0/a1/55b0a138943b0c8f4f16253b75baf09a.jpg" group-title="DALIVE TV",ARG| CRONICA HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdWZvWU41OHdyUHZRQXM1dnZuc29lZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQflil18QOJFwvAk5RA_ihMoJb2HMx68Ta0A&s" group-title="DALIVE TV",ARG| A24 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcHJ0dzFCaXZvTnpub2wvc2JJSHBtUT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo.png" group-title="DALIVE TV",ARG| CN23 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcFBOdDN5a0Q4ZjQrN3Joa2txRk4rRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXokMAG55aOfeG2q3mJqp6W6IW5nfBIVzs7Q&s" group-title="DALIVE TV",ARG| ENCUENTRO HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdjRScHU4dU45c3dtVzA5cVFCcnlnRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="DALIVE TV",ARG| CANAL 26 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzckFjNG91RXpGRXVmVkRwemVwSDNYRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="DALIVE TV",ARG| TV PUBLICA  HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJza0l2WTVkSTRieUhJVlArTHB1Ukdxbz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://e7.pngegg.com/pngimages/926/901/png-clipart-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem.png" group-title="DALIVE TV",ARG| GARAGE  HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbjh2UTZjZjUvNHNLdVYyaG0zQndkMD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Arpampa.PNG" group-title="DALIVE TV",ARG| LA PAMPA TV HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdkErZ2wzWEprOWh3aWFVMm5tZzdzZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 13 MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvMkH98cyGWcC1yCPXSHGeDsyfsJLkgkn0aBPEQ0SsQ&s" group-title="DALIVE TV",ARG| 13 MAX HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcExFYjF5RFBjM3YrUG5zVFZTVmJBYz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESTRELLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="DALIVE TV",ARG| ESTRELLA TV HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzazgxZ1htSTJRNTZpSm9WSjVXRThLQT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" group-title="DALIVE TV",ARG| CANAL 22 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdW9rV0hHZE1nbERPVkVDZmJHK3NVbz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="DALIVE TV",ARG | TNT SPORTS  FHD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb2FmVUFkWCt0T3crcTJyRklDTytrZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="DALIVE TV",ARG I T&C SPORTS SD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaVFqcU5HZGRlOTZsMjdpcHlvZ0dLcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS INTERNA." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="DALIVE TV",ARG I T&C SPORTS INTERNA.
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaFVyY1F6YTgyTlBTait0QW4xcnNXVT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="DALIVE TV",ARG I T&C SPORTS  HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcThwcEtwR09FaEloZlZIaG1zQ25Pcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="DALIVE TV",ARG : DEPORTV  HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbFdYcFBISGpPcno2QXBQdFJVNXA4Yz0
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",CANAL 4
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdUMvMloyNDFpWU9xa2Q5b1RYSlFKaz0
+#EXTINF:-1 tvg-id="" tvg-name="Jujuy tv" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",Jujuy tv
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzclg2STlhaEs3QUxBZzBPVktSZjltaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="DALIVE TV",ARG| C5N HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdkF3bGFQblVKVjVqSXRnWjhTZjRvUT0
+
+#EXTINF:-1 tvg-id="" tvg-name="Tñt $p⚽rts hd" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",Tñt $p⚽rts hd
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaDAwTjRFaVBaaHVxNmZMVXRhZlJGST0
+#EXTINF:-1 tvg-id="" tvg-name="TÑT $P⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",TÑT $P⚽RTS SD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJza014aTlvcy9mdDY2ckFTNjY0U0JwYz0
+#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS HD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",TYC SP⚽RTS HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzblR3ZDZIblhnVzlUb3BkWTRqaWFDVT0
+#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",TYC SP⚽RTS SD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaTE1eHJmNDJLMXFEVlRjTzJoN1VMWT0
+#EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM HD." tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",E$PN PREMIUM HD.
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdUF5T1p4QjZGK3hKOXQwMG8zcERIWT0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",ESPN
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc3BwZWhuY0dhQnMySmpBMjQyc1Mzcz0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",ESPN
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb0hST0ZVRzkxclE0cUlvME1lcTM3WT0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",ESPN 2
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbURicWE0eERVRU14dlFjTlFyd1lmaz0
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",E$PN 3 HD.
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb3QzVWtNaWhmSU81WFVVTkE5L21yST0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",ESPN 3
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaXp1NHp5ejRiSUtJWGdERzQzMW9uQT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 HD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",F⚽X $P0RTS 1 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcmp5ZjNuL3JtUXB6RktHbHEwWnVaUT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 SD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",F⚽X $P0RTS 1 SD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbVc2dzdtSzREOE1mMGg2Mm1LbXVMRT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORTS 2 HD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",F⚽X $PORTS 2 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcWhwU1VrdHJVRHZwT3RWM3BJYlRlQT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0RTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="DALIVE TV",F⚽X  $P0RTS 3 HD
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdnlHdVk4SFhFMG14V3JiOFQ2NkRwcz0
+
+
+
 NOA TV
 
 
@@ -539,120 +698,6 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1173327
 
 #EXTINF:-1 tvg-id="" tvg-name="LD - BEIN SPORTS XTRA " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS XTRA 
 https://tv.nousiptv.com:8443/Lopera77/872399/1178336
-
-
-
-FLEX TV
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="FLEX TV ARG",ESPN
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/269792.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://media.c5n.com/p/a00c210cc8d712239248e2b2011d6726/adjuntos/326/imagenes/000/200/0000200321/1200x675/smart/espn-premium-liga-profesional-argentina.jpg" group-title="FLEX TV ARG",ESPN PREMIUM AR
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/404426.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG I TYC SPORTS " tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="FLEX TV ARG",TYC SPORTS 
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97710.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="FLEX TV ARG",ARG I T&C SPORTS SD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120636.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD" tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="FLEX TV ARG",ARG | FOX SPORTS 1 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120634.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="FLEX TV ARG",ARG | FOX SPORTS 2 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120633.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3 HD" tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="FLEX TV ARG",ARG | FOX SPORTS 3 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120632.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="FLEX TV ARG",ARG | TyC Sports HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/106104.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="FLEX TV ARG",ARG | TYC Sports OPC 2
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/140434.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="FLEX TV ARG",ARG | TYC Sports SD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/129438.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="FLEX TV ARG",ARG | TNT SPORTS
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120641.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="FLEX TV ARG",ARG | TNT SPORTS HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120637.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ARG | ESPN HD" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="FLEX TV ARG", ARG | ESPN HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120640.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="FLEX TV ARG",ARG | ESPN PREMIUM
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120639.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="FLEX TV ARG",ARG | ESPN PREMIUM
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120638.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="FLEX TV ARG",DSports | AR ❆
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249512.ts
-
-
-
-flex tv arg
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG| NET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="FLEX TV ARG",ARG| NET TV HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97682.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://logowik.com/content/uploads/images/la-nacion9955.logowik.com.webp" group-title="FLEX TV ARG",ARG| LA NACION HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97684.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="FLEX TV ARG",ARG| VOLVER HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97685.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="FLEX TV ARG",ARG| AMERICA TV HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97674.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="FLEX TV ARG",ARG| AMERICA FHD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97675.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG| EL NUEVE HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97676.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG| EL NUEVE FHD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97677.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Eltrece_Internacional_2017.png" group-title="FLEX TV ARG",ARG| TRECE  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97680.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgSvzWPrd847ipmyW27BLHAmbcukHq5L-O0b6qDJBfMvUDBgBp-6gQaQ&s=10" group-title="FLEX TV ARG",ARG| 24/7 NOTICIAS HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97683.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="FLEX TV ARG",ARG| CANAL 10 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97686.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAm_9Xv8LMJ6ov8u0t-CXcTGdekH0vVsMWmCrq0JaWokc=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG| CINEAR  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97687.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="FLEX TV ARG",ARG| TN NOTICIAS HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97689.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/1200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="FLEX TV ARG",ARG| CRONICA HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97690.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/hqdefault.jpg?v=685415d4" group-title="FLEX TV ARG",ARG| A24 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97691.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cn23logo2017.png" group-title="FLEX TV ARG",ARG| CN23 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97693.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ENCUENTRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png" group-title="FLEX TV ARG",ARG | ENCUENTRO HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97694.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/elgaragetv_WEB.png" group-title="FLEX TV ARG",ARG| GARAGE  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97697.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQUywxc_UHPkA-P5duDbxwQX9QHmsZJkREMnDfjqfMvgMc4VzI4eREIw&s=10" group-title="FLEX TV ARG",ARG| LA PAMPA TV HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97698.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | UNITEVE  " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n1fbX7TLjTbh-nPgXMaKf3oNIhFVInZBLXvH9Ff4bPBHM=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG | UNITEVE  
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97704.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7APZazFUwmkatKqXteRnFgKpg6ZS_gIQ4B36QjIavA&s=10" group-title="FLEX TV ARG",ARG| CANAL 22 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97706.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://yt3.googleusercontent.com/0iRWn9dDzgOJHgnCyphfgVacDPhB85mMbAHb7cibSJHoBDIc2U7516EQrK0xA3ywFQZAmfh_Yac=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",CANAL 4
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97713.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2018/11/FichaDeporTV-2.jpg" group-title="FLEX TV ARG",ARG : DEPORTV  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97712.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG I TYC SPORTS " tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="FLEX TV ARG",ARG I TYC SPORTS 
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97710.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="FLEX TV ARG",ARG I T&C SPORTS SD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97709.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG : Canal 26 HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97672.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG : Canal 26 FHD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97673.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGar_GA4TXM9ijFw1JNFOTOYpEJiuAffL3OpFbVBN7eKuLTyW2RxhrBYr&s=10" group-title="FLEX TV ARG",ARG | TNT SPORTS  FHD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97708.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="FLEX TV ARG",ARG I T&C SPORTS  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97711.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="FLEX TV ARG",ARG| C5N HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/105110.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="FLEX TV ARG",ARG| TELEFE SD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97679.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="FLEX TV ARG",ARG| TELEFE HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97678.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="FLEX TV ARG",ARG| TV PUBLICA  HD
-http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97696.ts
 
 
 
@@ -2152,6 +2197,233 @@ http://173.208.205.122/live/Cecilia2901/Dm29012025/44153.ts
 
 
 EVENTOS HOY
+
+
+
+MUNDIAL FECHA 2
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Suiza vs Canadá (Group B)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Suiza vs Canadá (Group B)  op1 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc3pnWFhiK2Y1b09tdnl0ellQTEVSRT0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Suiza vs Canadá (Group B)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Suiza vs Canadá (Group B)  op2 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzakRybkYvYy9TRGlzSEtVQ0tqanNpMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Suiza vs Canadá (Group B)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Suiza vs Canadá (Group B)  op3 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdkpsOCtSTHJHZW1CMk1hSUgwWHZIND0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Bosnia & Herzegovina vs Catar (Group B)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Bosnia & Herzegovina vs Catar (Group B)  op1 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdXZHdTlBejd3YTVPZ21jalZjaW9KMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Bosnia & Herzegovina vs Catar (Group B)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Bosnia & Herzegovina vs Catar (Group B)  op2 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc3M5YWxLZmNFekhvMVkyblMxb3BTUT0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Bosnia & Herzegovina vs Catar (Group B)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Bosnia & Herzegovina vs Catar (Group B)  op3 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbEVRN3ByZm4zcUZ3a3VrSzB0NDMvRT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Senegal vs Irak (Group I)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Senegal vs Irak (Group I)  op1 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbTJDMmJTNWVqV0ZSV0F1MTNhOVE0RT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Senegal vs Irak (Group I)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Senegal vs Irak (Group I)  op2 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbnA3VzVreGJNYWlaaHJUaXpkenNrWT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Senegal vs Irak (Group I)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Senegal vs Irak (Group I)  op3 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdkZScU85a0pVUUQ5dDhLNVFBMVBsbz0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Noruega vs Francia (Group I)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Noruega vs Francia (Group I)  op1 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzakRGY1J2REcrZi9CaTkwZGthVWNuST0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Noruega vs Francia (Group I)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Noruega vs Francia (Group I)  op2 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcW1abWt1WHkreXkxR1NpMVA4UHZzUT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Noruega vs Francia (Group I)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Noruega vs Francia (Group I)  op3 (15:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc1M1Ymo2L2FrSHdzbFgzOEJROFNMZz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Ecuador vs Alemania (Group E)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Ecuador vs Alemania (Group E)  op1 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbll3ZTkzdUNtNzBmOEZrcGZLM2IrTT0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Ecuador vs Alemania (Group E)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Ecuador vs Alemania (Group E)  op2 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJza29CVVBHMlR4UjNFZk5wR0xHOFlCYz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Ecuador vs Alemania (Group E)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Ecuador vs Alemania (Group E)  op3 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc0p0VTRqSUdnYy9jNzhJdEwxZ0RXND0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Curazao vs Costa de Marfil (Group E)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Curazao vs Costa de Marfil (Group E)  op1 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaVl2SHVJYlY1QWxKOURTTkNQeHgyMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Curazao vs Costa de Marfil (Group E)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Curazao vs Costa de Marfil (Group E)  op2 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcHBIRjVVbld2SkQ0L1FyUDNobkRzdz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Curazao vs Costa de Marfil (Group E)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Curazao vs Costa de Marfil (Group E)  op3 (16:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbDE0RE5BMytHc2d6c0lQS2U2TWh1UT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Croacia vs Ghana (Group L)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Croacia vs Ghana (Group L)  op1 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc1ZyZFJubzd3TGJJMmcxeEd5YktYUT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Croacia vs Ghana (Group L)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Croacia vs Ghana (Group L)  op2 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaWgzRG9PYitRTitGZnp5bFArY1Budz0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Croacia vs Ghana (Group L)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Croacia vs Ghana (Group L)  op3 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcU5jVHBxUlRLaXNwdXpiKzFlTnBjTT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Panamá vs Inglaterra (Group L)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Panamá vs Inglaterra (Group L)  op1 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcEhiTGtLMnVyaW91WXErQVFKVm5XUT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Panamá vs Inglaterra (Group L)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Panamá vs Inglaterra (Group L)  op2 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzclRyM2tNaUdockU0QXkrdTVhc2J2TT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Panamá vs Inglaterra (Group L)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Panamá vs Inglaterra (Group L)  op3 (17:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaURFSDNpUFdHQmlqblhUQ3J4Wm1Raz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Marruecos vs Haití (Group C)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Marruecos vs Haití (Group C)  op1 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcU42WERndnNRYWRKcFdBWnd4NTcwZz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Marruecos vs Haití (Group C)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Marruecos vs Haití (Group C)  op2 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdHNFTjA3OHJKbjBLc2hiSlVsVlJVbz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Marruecos vs Haití (Group C)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Marruecos vs Haití (Group C)  op3 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbWViSFVvQzgvNG5jQ2ZMaFhYZnVucz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Escocia vs Brasil (Group C)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Escocia vs Brasil (Group C)  op1 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcnptLzlsdGM1enRnaldoRC9SbVFFdz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Escocia vs Brasil (Group C)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Escocia vs Brasil (Group C)  op2 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaS9VVzh3VDBVTmJTaGZmVmpRL2tqND0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Escocia vs Brasil (Group C)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Escocia vs Brasil (Group C)  op3 (18:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc1NrTlE0eGlXMElpNnplWnRDeW90OD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Japón vs Suecia (Group F)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Japón vs Suecia (Group F)  op1 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdFZOcVI0amNCbVM2MVJtVnlIRmNXVT0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Japón vs Suecia (Group F)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Japón vs Suecia (Group F)  op2 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaGJ6Y1lSYUp4ajlBQUNhUXliaTFhOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Japón vs Suecia (Group F)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Japón vs Suecia (Group F)  op3 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbnE2WXJBMkFZNUp5b3JqMlByakpkcz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Túnez vs Países Bajos (Group F)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Túnez vs Países Bajos (Group F)  op1 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdlZYQmJBY3F0VUlaR0Vtd1lJZHRNQT0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Túnez vs Países Bajos (Group F)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Túnez vs Países Bajos (Group F)  op2 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb1AzQ2tPUTZZdEc1U0FuZ1g4WCtGMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Túnez vs Países Bajos (Group F)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Túnez vs Países Bajos (Group F)  op3 (19:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcDB0SmlucXIzeFozTGE3c2Q5TmdhOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Colombia vs Portugal (Group K)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Colombia vs Portugal (Group K)  op1 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdlJDR1lBdTVKWktYZXVxeEJBSlB3UT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Colombia vs Portugal (Group K)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Colombia vs Portugal (Group K)  op2 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaHFsQVFmK1dSQit0a1Y3S1ErOXhnOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Colombia vs Portugal (Group K)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Colombia vs Portugal (Group K)  op3 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb1AxTUR5V3hzY09DM21YL2pjaCtTMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun RD Congo vs Uzbekistán (Group K)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun RD Congo vs Uzbekistán (Group K)  op1 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdHRDVTFMN1RqQm5rT1c0NFlwdWJIST0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun RD Congo vs Uzbekistán (Group K)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun RD Congo vs Uzbekistán (Group K)  op2 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbnVjRzI0WmlnUzl6dnlrSDZJbzQxYz0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun RD Congo vs Uzbekistán (Group K)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun RD Congo vs Uzbekistán (Group K)  op3 (19:30 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdmpmQmg0Tkl5NjV4Lys4dnNWaXl4Yz0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Uruguay vs España (Group H)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Uruguay vs España (Group H)  op1 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcUx3eDE3SFdpR1YrOCsvL2dlUGtNRT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Uruguay vs España (Group H)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Uruguay vs España (Group H)  op2 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaXhTZXJiM1BqeG5sOWE1b3lraGhBND0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Uruguay vs España (Group H)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Uruguay vs España (Group H)  op3 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzZzRRN2dQdFcyd3JEYVA3MWFHTktsWT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Cabo Verde vs Arabia Saudita (Group H)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Cabo Verde vs Arabia Saudita (Group H)  op1 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdUZZdktnWkNmdTYweVpXd1AzNmlSQT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Cabo Verde vs Arabia Saudita (Group H)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Cabo Verde vs Arabia Saudita (Group H)  op2 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaG1FcmdXMzkzZWloZVF0ZE9zZllDMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Cabo Verde vs Arabia Saudita (Group H)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Cabo Verde vs Arabia Saudita (Group H)  op3 (20:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc2p0M21YMnlHcjUvQnRsOC9xRWQzOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun República Checa vs México (Group A)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun República Checa vs México (Group A)  op1 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdVczUVR0TWtYQ0Q1aVBMT0xuaXNiMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun República Checa vs México (Group A)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun República Checa vs México (Group A)  op2 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcFR0Z2ptZURNeGxoeVIvTm04YmRIcz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun República Checa vs México (Group A)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun República Checa vs México (Group A)  op3 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzZ2FqazJKc0hObk51R2txTHdndHc5MD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Sudáfrica vs Corea del Sur (Group A)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Sudáfrica vs Corea del Sur (Group A)  op1 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb0N1QWUzcnFsYTJTZUwvVzhLQ1JYdz0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Sudáfrica vs Corea del Sur (Group A)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Sudáfrica vs Corea del Sur (Group A)  op2 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcUh0TjdhcHoxaEpvTGIwUkFkcFBXOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Jun Sudáfrica vs Corea del Sur (Group A)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",24 Jun Sudáfrica vs Corea del Sur (Group A)  op3 (21:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaGRnZWx6bVgwelYrOEErOW5Pa2FScz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Turquía vs Estados Unidos (Group D)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Turquía vs Estados Unidos (Group D)  op1 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcVB0Nk8yWXBCL1ZVR0NnNUpZeTNmQT0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Turquía vs Estados Unidos (Group D)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Turquía vs Estados Unidos (Group D)  op2 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdWtOOXVGVlVvdHVRKzBFR2NvUzVUMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Turquía vs Estados Unidos (Group D)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Turquía vs Estados Unidos (Group D)  op3 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbTJWTmNBbVQwY2JEOHJEVHp4aTljQT0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Paraguay vs Australia (Group D)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Paraguay vs Australia (Group D)  op1 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb1ljTE1Yd3diaFR3eW9DSjR3QjFubz0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Paraguay vs Australia (Group D)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Paraguay vs Australia (Group D)  op2 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbTVtMXZCZXhGeFV4S3VreUJoQkRHOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="25 Jun Paraguay vs Australia (Group D)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",25 Jun Paraguay vs Australia (Group D)  op3 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbThNR3I1V0FMU2xoOE5pUmZpQ29iQT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Argelia vs Austria (Group J)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Argelia vs Austria (Group J)  op1 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdjgvMnh2TTR4bERvWkhHWjFvekxMTT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Argelia vs Austria (Group J)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Argelia vs Austria (Group J)  op2 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaCs3MWFiWjVCaUp3MWRZejIrL2xzcz0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Argelia vs Austria (Group J)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Argelia vs Austria (Group J)  op3 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc3pGNTB1cW0vZnFud0pYVE1PSDFFOD0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Jordania vs Argentina (Group J)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Jordania vs Argentina (Group J)  op1 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJza2dkSlJnNThybEZaQ3lWUE4yaDgzRT0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Jordania vs Argentina (Group J)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Jordania vs Argentina (Group J)  op2 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdkxaNzlMR0hVNHVuV2Nqa3daQjhQMD0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Jun Jordania vs Argentina (Group J)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",27 Jun Jordania vs Argentina (Group J)  op3 (22:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzaG1kQ3ZOVFJ3UmNnVjhWZ0hDT3J2RT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Egipto vs Irán (Group G)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Egipto vs Irán (Group G)  op1 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzbDhISkYyUXBDMFkybnRxQ3RSc3B2ND0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Egipto vs Irán (Group G)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Egipto vs Irán (Group G)  op2 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdnd6bVI0TkZuQXFyemc5TW1JSnRvcz0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Egipto vs Irán (Group G)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Egipto vs Irán (Group G)  op3 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzc3ZSOHlkQlRkNTlvWDZhN2FVWlFGST0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Nueva Zelanda vs Bélgica (Group G)  op1" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Nueva Zelanda vs Bélgica (Group G)  op1 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcjJFdFdmM1ZZcm42QmVvenZRQ3BBND0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Nueva Zelanda vs Bélgica (Group G)  op2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Nueva Zelanda vs Bélgica (Group G)  op2 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdWF5RzBXUWhqd0g1cVpkdUVJQlNhVT0
+
+#EXTINF:-1 tvg-id="" tvg-name="26 Jun Nueva Zelanda vs Bélgica (Group G)  op3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",26 Jun Nueva Zelanda vs Bélgica (Group G)  op3 (23:00 ARG)
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzcFpPWUFqbWc2cG5MUHhmTlYxcFVaVT0
+
+#EXTINF:-1 tvg-id="" tvg-name="Fase de Grupos - Jornada 2" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",Fase de Grupos - Jornada 2
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzdm5yK2ZPVmg4WXJ5SkdMN2psMjh5az0
+
+#EXTINF:-1 tvg-id="" tvg-name="Fase de Grupos - Jornada 3" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="MUNDIAL FECHA 3",Fase de Grupos - Jornada 3
+http://dalive.site:8080/bmZra0JJRW1MeDB0RXJ4SzlRNkJzb3E4MzBrQWFJZ2ljcEpsdEhEOWE0Yz0
+
 
 PELICULAS PRUEBO
 
