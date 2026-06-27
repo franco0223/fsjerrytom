@@ -26,6 +26,31 @@ http://goldtv.lat:80/live/MrTafurJorge/PwNzruKmvSxt/541539.ts
 
 MUNDIAL 2026  
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="MUNDIAL 2026",Dsports Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3c7199dc2c8b2bdc51128d0c9254144:4daf455bb721a9076b1ecceed5c95119
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/gvy1a4vy7l/out/v1/f2b9732c6f04452492e03f1f849093e7/cenc-sd.mpd
+
+#EXTINF:-1 group-title="MUNDIAL 2026",Dsports2 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=022f1d774371be165dea59f9efbd3052:7ab55284ac60d0479bb55b08f0a97ee1
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/amz5dwei2a/out/v1/3140ebc29a9e4683b480e5dba8588608/cenc-sd.mpd
+
+#EXTINF:-1 group-title="MUNDIAL 2026",Dsports+ Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dd5c144ed82ca5846f67413515c6350:ec3ff0d2a29e18a34ab19155641f5f2f
+https://ablvfhaaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/tyvyvcib0h/out/v1/9e464a5c6e864dfb8641ce3851023452/cenc-sd.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="D$P0RT$>PERU HD" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="MUNDIAL 2026",D$P0RT$>PERU HD
 http://goldtv.lat:80/live/MrTafurJorge/PwNzruKmvSxt/540026.ts
 #EXTINF:-1 tvg-id="" tvg-name=">D$P0RT$  ECU HD" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="MUNDIAL 2026",>D$P0RT$  ECU HD
@@ -969,6 +994,25 @@ http://infinitisurl.com:8080/593Ghxv7/8VtTeEVh/339666
 #EXTINF:-1 tvg-id="" tvg-name="AR > ****€*$*P*N* PR***** OP 2" tvg-logo="http://127.0.0.1/" group-title="INFINITI TV ARG",AR > ****€*$*P*N* PR***** OP 2
 http://infinitisurl.com:8080/593Ghxv7/8VtTeEVh/339665
 ------------------------------
+
+
+
+PLAY PELUSA
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="http://sunset-app.com/picons/sudamerica/a24.jpg" group-title="Play Pelusa",AR | A24
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/67525
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal 26" tvg-logo="https://i.postimg.cc/xjM6543q/canal26.jpg" group-title="Play Pelusa",AR | Canal 26
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/67523
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe" tvg-logo="https://i.postimg.cc/Bbhz71MG/telefe.jpg" group-title="Play Pelusa",AR | Telefe
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/181625
+#EXTINF:-1 tvg-id="" tvg-name="AR | America Tv" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Play Pelusa",AR | America Tv
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/210627
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3" tvg-logo="https://i.ytimg.com/vi/DOOr0RuuYN8/hqdefault.jpg" group-title="Play Pelusa",AR | ESPN 3
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/292587
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="Play Pelusa",AR | ESPN 2
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/292588
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN" tvg-logo="http://sunset-app.com/picons/Deportes/espn.jpg" group-title="Play Pelusa",CL | ESPN
+http://play.pelusa.online:8080/CESKARY/c6DuLMmvYDAY/67571
 
 
 NETVIDEO LISTA
